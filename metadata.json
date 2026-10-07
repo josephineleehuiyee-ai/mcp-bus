@@ -1,0 +1,7 @@
+{
+  "name": "PulseBus Civic Velocity",
+  "description": "High-utility civic transit radar with live GPS vehicle tracking, precision countdowns, stop inspections, and dynamic dispatch board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
